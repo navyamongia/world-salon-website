@@ -1,0 +1,208 @@
+html,body,#root{
+  height: 1024px;
+  width: 1440px;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  
+  
+}
+
+body{
+  margin: 0;
+}
+
+/* .ContainerBox{
+ 
+  display: flex;
+  overflow: hidden;
+ 
+  width: 100%;
+ height: 1024px;
+  gap: 2px;
+  background-color: grey;
+}
+
+.b1,.b2{
+  background-color: white;
+  width: 50%;
+  height: 1024px;
+ 
+  
+} */
+
+
+
+/* #Heading{
+  height: 46px;
+  width: 300px;
+  font-size: 45px;
+  margin-top: 243px;
+  margin-left: 52px;
+  text-align: left;
+
+}
+
+#logoImg{
+  height: 46px;
+  width: 300px;
+}
+
+#Globe{
+  height: 504px;
+  width: 483px;
+  margin-top: 0px;
+  margin-left: 237px;
+
+}
+
+
+#Motto{
+  height: 204px;
+  width: 545px;
+  font-size: 24px;
+  text-align: left;
+  margin-left: 65px;
+  margin-top: 34px;
+} */
+
+/* .WelcomeHeading{
+  
+  height: 48px;
+  width: 291px;
+  margin-top: 79px;
+  margin-left: 70px;
+  font-weight: bold;
+  font-size: 40px;
+  text-align: left;
+  
+} */
+
+/* .LoginSignUpBox, .PersonalInfoBox{
+  height: 790px;
+  width: 576px;
+  margin-left: 70px;
+  background-color: #F3F5F7;
+  margin-top: 51px;
+  
+  border: 1px solid #767474;
+  border-radius: 5px;
+} */
+
+*{
+  font-family: "Work Sans", sans-serif;
+}
+
+/* .UsernameBox, .PasswordBox, .ConfirmPasswordBox, .NameBox, .EmailBox, .SchoolBox, .CareerBox, .IndustryBox, .FieldBox, .ButtonBox{
+  height: 100px;
+  width: 491px;
+  margin-left: 39px;
+  
+  color: #726C6C;
+  text-align: left;
+}
+
+.UsernameBox, .NameBox, .IndustryBox{
+  margin-top: 36px;
+
+}
+
+.inputBox{
+  margin-top: 8px;
+  margin-bottom: 9px;
+  border-radius: 16px;
+  background-color: white;
+  padding: 0px;
+  font-size: 16px;
+  text-align: left;
+ height: 61px;
+ width: 491px;
+  box-sizing: border-box;
+  border-style: solid;
+ border-color: #CCCBCB;
+  
+  
+
+} */
+
+
+
+#forgotText{
+  height: 19px;
+  width: 138px;
+  text-align: left;
+  margin-left: 394px;
+  font-size: 16px;
+  margin-top:0 ;
+  font-style: italic;
+  
+
+}
+
+.btnBox{
+  height: 53px;
+  width: 491px;
+  /* border-radius: 10px; */
+  margin-left: 39px;
+  margin-top: 24px;
+  /* border: none;
+  background-color: #007CBE;
+  color: white;
+  padding: 0; */
+  
+
+}
+
+.btn{
+  height: 100%;
+  width: 100%;
+  border-radius: 10px;
+   border: none;
+  background-color: #007CBE;
+  color: white;
+  font-size: 24px;
+  font-weight: bold;
+  padding: 0;
+}
+.btn2{
+  height: 57px;
+  width: 491px;
+  border-radius: 10px;
+  border: none;
+  padding: 0;
+  margin-top: 15px;
+  margin-bottom: 6px;
+  background-color: #99BEEC;
+  font-size: 18px;
+}
+.btn3{
+  height: 57px;
+  width: 491px;
+  font-size: 18px;
+  border-radius: 10px;
+  border: none;
+  padding: 0;
+  background-color: #DDE9F9;
+ 
+
+}
+.btn3Box{
+  height: auto;
+  margin-top: 10px;
+}
+button{
+  cursor:pointer;
+}
+
+input:focus {
+  outline: none;
+}
+
+option{
+  color: black;
+}
+
+.btn2::selection{
+  background-color: black;
+}
+

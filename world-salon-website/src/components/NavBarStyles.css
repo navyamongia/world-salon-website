@@ -1,0 +1,86 @@
+/* #Nav1 > *{
+    padding: 0%;
+    height: 36px;
+    width: 36px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+} */
+
+#Nav1 > a{
+    padding: 0%;
+    height: 36px;
+    width: 36px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#Nav1{
+    align-items: center;
+}
+
+
+#lineBreak{
+    height:45px;
+    border: 1px solid rgb(0,0,0,0.28);
+    width:0px
+}
+
+#NavForm{
+    height:45px ;
+    width:267px;
+  
+   
+  
+}
+
+#NavForm input{
+    float: left;
+    height: 100%;
+    text-align: left;
+    font-size: 12px;
+    padding: 0;
+    border: none;
+    width: 206px;
+}
+#NavForm button{
+    float: right;
+    height: 100%;
+    width: 61px;
+    border-top-right-radius: 18px;
+    border-bottom-right-radius: 18px;
+    background-color: #005887;
+    border: none;
+    padding: 0;
+    text-align: -moz-center
+}
+/* #NavForm span{
+    display: inline-block;
+    height: 100%;
+}
+
+span input{
+    color:rgba(0,0,0,0.53);
+    font-size:12px;
+     border: none;
+     height: 100%
+} */
+
+
+/* #NavForm input{
+    color:rgba(0,0,0,0.53);
+    font-size:12px;
+     border: none;
+     height: 100%;
+     width: 
+    
+
+}
+
+#NavForm button{
+   width: 61px;
+   
+   height: 100%;
+   padding: 0;
+} */
